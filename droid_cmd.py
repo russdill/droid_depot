@@ -3,6 +3,7 @@ import struct
 
 custom_id = 0x44
 
+SERIAL_VOLUME = 0x0e
 SERIAL_SOUND = 0x10
 SERIAL_SOUND_FLASH = 0x11
 SERIAL_LED_ON = 0x48
